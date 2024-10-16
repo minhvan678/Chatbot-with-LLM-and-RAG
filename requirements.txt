@@ -1,0 +1,11 @@
+langchain==0.3.3
+langchain_community==0.3.2
+langchain_core==0.3.10
+langchain_ollama==0.2.0
+langgraph==0.2.37
+chromadb==0.5.13
+streamlit==1.39.0
+typing_extensions==4.12.2
+tqdm==4.66.5
+pypdf==5.0.1
+sentence_transformers==3.2.0
